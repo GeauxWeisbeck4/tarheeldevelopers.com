@@ -1,0 +1,19 @@
+metas:
+  site: Tar Heel Dev Studio
+  description: Creating rich digital experiences that engage customers and build loyalty. Hire us today!
+  lang: en
+  generator: true
+
+links:
+  - title: Home
+    href: "/"
+  - title: About
+    href: "/about"
+  - title: Services
+    href: "/services"
+  - title: Blog
+    href: "/blog"
+  - title: Resources
+    href: "/resources"
+
+layout: "layouts/base.njk"

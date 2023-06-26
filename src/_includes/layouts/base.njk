@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - Lume Deno Template
+    </title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2946179477000786"
+crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+    <meta name="supported-color-schemes" content="light dark">
+    <link rel="stylesheet" href="/styles/global.css">
+    <link rel="stylesheet" href="/styles/highlight.css">
+    <link rel="canonical" href="{{ url | url(true) }}">
+    <link rel="icon" type="image/x-icon" href="/assets/logo.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logo.png">
+  </head>
+  <body class="bg-[#131b1e] h-screen  text-white ">
+    <header class="top-0 absolute sticky ">
+      {{ components.navbar() | safe }}
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer class="bottom-0 relative    mt-10 overflow-hidden w-screen ">
+      {{ components.footer() | safe }}
+    </footer>
+  </body>
+</html>
