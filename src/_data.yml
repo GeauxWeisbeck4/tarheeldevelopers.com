@@ -1,5 +1,5 @@
 metas:
-  site: Tar Heel Dev Studio
+  site: =title
   description: Creating rich digital experiences that engage customers and build loyalty. Hire us today!
   lang: en
   generator: true
@@ -9,6 +9,8 @@ links:
     href: "/"
   - title: About
     href: "/about"
+  - title: Portfolio
+    href: "/portfolio"
   - title: Services
     href: "/services"
   - title: Blog

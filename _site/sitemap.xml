@@ -25,6 +25,10 @@
     <lastmod>2023-04-29T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>http://localhost:3000/portfolio/</loc>
+    <lastmod>2023-06-26T06:14:07.008Z</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:3000/resources/</loc>
     <lastmod>2023-06-26T05:32:25.736Z</lastmod>
   </url>
@@ -37,19 +41,23 @@
     <lastmod>2023-06-26T05:28:13.042Z</lastmod>
   </url>
   <url>
+    <loc>http://localhost:3000/services/contentCreation/</loc>
+    <lastmod>2023-06-26T06:24:28.833Z</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:3000/tags/First Post/</loc>
-    <lastmod>2023-06-26T05:39:59.888Z</lastmod>
+    <lastmod>2023-06-26T06:58:55.588Z</lastmod>
   </url>
   <url>
     <loc>http://localhost:3000/tags/General/</loc>
-    <lastmod>2023-06-26T05:39:59.888Z</lastmod>
+    <lastmod>2023-06-26T06:58:55.588Z</lastmod>
   </url>
   <url>
     <loc>http://localhost:3000/tags/Important/</loc>
-    <lastmod>2023-06-26T05:39:59.888Z</lastmod>
+    <lastmod>2023-06-26T06:58:55.588Z</lastmod>
   </url>
   <url>
     <loc>http://localhost:3000/tags/Showcase/</loc>
-    <lastmod>2023-06-26T05:39:59.888Z</lastmod>
+    <lastmod>2023-06-26T06:58:55.588Z</lastmod>
   </url>
 </urlset>
