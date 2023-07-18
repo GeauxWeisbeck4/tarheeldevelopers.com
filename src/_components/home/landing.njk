@@ -1,5 +1,5 @@
 <div
-    class="md:grid md:grid-cols-2 justify-between overflow-hidden pt-0 items-center flex flex-wrap px-4 ml-20 lg:pt-16 lg:flex-wrap md:px-8 bg-transparent"
+    class="md:grid md:grid-cols-2 justify-between overflow-hidden pt-0 items-center flex flex-wrap px-4 ml-20 lg:pt-16 lg:flex-wrap md:px-8 bg-transparent mb-20"
 >
     <div class="mb-16 pt-10 lg:mb-0 lg:max-w-lg lg:pr-5">
         <div class="max-w-xl mb-6">
@@ -50,12 +50,49 @@
     </div>
     <div class="w-full mt-5 flex justify-center  items-center md:justify-right md:items-right ">
         <img
-            src="assets/heropic1.png"
+            src="assets/tarheeldeveloperslogo.png"
             class="md:h-full md:w-auto h-1/5 w-2/5 animate-[bounce_6s_ease-in-out_infinite]"
             alt="landing image"
 />
     </div>
 </div>
 
-<
+{# Our Servies Section #}
+    <div class="flex justify-center">
+        <h2 class="text-3xl font-semibold text-white place-self-center">Our Services</h2>
+    </div>
+{{ components.home.serviceCards() | safe }}
+
+{# Testimonials Section #}
+{{ components.home.testimonials() | safe }}
+
+{# Featured Articles Section #}
+    <div class="flex justify-center">
+        <h2 class="text-3xl font-semibold text-white place-self-center mt-20">Featured Articles From Our Blog</h2>
+    </div>
+{% block content %}
+    {{ components.home.featuredArticles() | safe }}
+{% endblock %}
+
+
+{# Why Us Section #}
+<section class="why-work-with-us-section">
+  <div class="max-w-6xl mx-auto px-4 py-10">
+    <h2 class="text-3xl font-semibold mb-8 text-center">You may want to work with us if...</h2>
+    <ul class="list-disc pl-6">
+      <li>You want to be a part of the design and development process</li>
+      <li>Your brand is in need of a fresh redesign</li>
+      <li>Your content is lacking and your SEO ranking is showing that</li>
+      <li>You want to connect and engage your loyal fans</li>
+      <li>You appreciate awesome support with a team that is always available</li>
+      <li>You are competitive and get up to win every day</li>
+    </ul>
+  </div>
+</section>
+
+{# Featured Projects #}
+{{ components.home.featuredProjects() | safe }}
+
+
+
 

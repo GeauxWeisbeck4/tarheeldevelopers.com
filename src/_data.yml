@@ -19,3 +19,24 @@ links:
     href: "/resources"
 
 layout: "layouts/base.njk"
+
+topArticle:
+  - title: "Hire Us Today"
+    excerpt: "Read on why you should hire the Tar Heel Developers from the studio today!"
+    url: "/blog/hire-us-today"
+    image: "/assets/webdevteam.png"
+
+featuredArticles:
+  - title: "                                                                                                                                                                                               Tar Heel Dev Studio Version 2.0"
+    excerpt: "Welcome to the latest version of Tar Heel Dev Studio with our new site!"
+    url: "/blog/first-post"
+    image: "/assets/tarheeldeveloperslogo.png"
+  - title: "Jamstack Web Development"
+    excerpt: "We talk about developing your next website using the Jamstack - read more to learn how!"
+    url: "/blog/jamstack-web-development"
+    image: "/assets/jamstack.png"
+  - title: "Tar Heel Design Process"
+    excerpt: "Learn more about our design process that integrates your vision with the look and feel of your website!"
+    url: "/blog/tar-heel-design-process"
+    image: "/assets/designprocessbro.png"
+

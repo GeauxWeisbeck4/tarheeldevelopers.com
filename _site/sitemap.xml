@@ -17,12 +17,24 @@
     <lastmod>2023-06-25T05:55:06.356Z</lastmod>
   </url>
   <url>
-    <loc>http://localhost:3000/blog/first-post/</loc>
-    <lastmod>2023-04-15T00:00:00.000Z</lastmod>
+    <loc>http://localhost:3000/blog/boost-digital-presence-with-seo-strategy/</loc>
+    <lastmod>2023-07-03T18:50:51.266Z</lastmod>
   </url>
   <url>
-    <loc>http://localhost:3000/blog/second-post/</loc>
-    <lastmod>2023-04-29T00:00:00.000Z</lastmod>
+    <loc>http://localhost:3000/blog/jamstack-web-development/</loc>
+    <lastmod>2023-06-18T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/blog/sign-up-for-free-website-review/</loc>
+    <lastmod>2023-06-25T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/blog/tar-heel-design-process/</loc>
+    <lastmod>2023-06-21T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/blog/tar-heel-dev-studio-version-2/</loc>
+    <lastmod>2023-06-27T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>http://localhost:3000/portfolio/</loc>
@@ -45,19 +57,31 @@
     <lastmod>2023-06-26T06:24:28.833Z</lastmod>
   </url>
   <url>
+    <loc>http://localhost:3000/tags/Consulting/</loc>
+    <lastmod>2023-07-17T17:10:04.859Z</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:3000/tags/First Post/</loc>
-    <lastmod>2023-06-26T06:58:55.588Z</lastmod>
+    <lastmod>2023-07-17T17:10:04.859Z</lastmod>
   </url>
   <url>
     <loc>http://localhost:3000/tags/General/</loc>
-    <lastmod>2023-06-26T06:58:55.588Z</lastmod>
+    <lastmod>2023-07-17T17:10:04.859Z</lastmod>
   </url>
   <url>
     <loc>http://localhost:3000/tags/Important/</loc>
-    <lastmod>2023-06-26T06:58:55.588Z</lastmod>
+    <lastmod>2023-07-17T17:10:04.859Z</lastmod>
   </url>
   <url>
-    <loc>http://localhost:3000/tags/Showcase/</loc>
-    <lastmod>2023-06-26T06:58:55.588Z</lastmod>
+    <loc>http://localhost:3000/tags/Jamstack/</loc>
+    <lastmod>2023-07-17T17:10:04.859Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/tags/Marketing/</loc>
+    <lastmod>2023-07-17T17:10:04.859Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/tags/SEO/</loc>
+    <lastmod>2023-07-17T17:10:04.859Z</lastmod>
   </url>
 </urlset>

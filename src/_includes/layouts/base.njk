@@ -23,6 +23,8 @@ crossorigin="anonymous"></script>
     </header>
     <main>
       {{ content | safe }}
+      {# Newsletter #}
+      {{ components.newsletter() | safe }}
     </main>
     <footer class="bottom-0 relative    mt-10 overflow-hidden w-screen ">
       {{ components.footer() | safe }}

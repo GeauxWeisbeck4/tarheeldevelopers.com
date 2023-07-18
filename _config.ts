@@ -10,7 +10,7 @@ import codeHighlight from "lume/plugins/code_highlight.ts";
 // init site
 const site = lume({
     src: "./src",
-    location: new URL("https://lume-deno-template.deno.dev/"),
+    location: new URL("https://tarheeldevelopers.com/"),
     components: {
         variable: "components",
     },
@@ -47,10 +47,10 @@ site.ignore("README.md", "CHANGELOG.md");
 
 // global variables | site info
 site.data("siteInfo", {
-    name: "Lume Template",
-    version: 1.0,
-    repo: "https://github.com/ArnavK-09/lume-deno-template",
-    description: "A Simple template to kickstart your lume site ",
+    name: "Tar Heel Developers",
+    version: 2.0,
+    repo: "https://github.com/Tar-Heel-Dev-Studio/tarheeldevelopers.com",
+    description: "The official website of Tar Heel Dev Studio. ",
 });
 
 // image alts if not prsent
